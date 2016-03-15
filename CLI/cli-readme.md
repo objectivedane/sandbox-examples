@@ -17,3 +17,7 @@ Then start requesting.
 
 Useful for debugging, the notices and warnings appear in the terminal.
 
+--------------------------------
+
+
+ZEND - point the root directory at public, point the router to public/index.php
